@@ -1,9 +1,12 @@
 Gitcoin: 0) Setup A Local CKB Node And CKB Indexer For The Testnet
-1. Setup a CKB Node
+1. Account List screenshot
 
-![alt text](https://github.com/drugurares/Gitcoin_Nervos/blob/main/task0/ckb_chain.PNG?raw=true)
+![alt text](https://github.com/drugurares/Gitcoin_Nervos/blob/main/task1/account_list.PNG?raw=true)
 
 
-2. Setup a CKB Indexer
+2. Layer1 Address Explorer: https://explorer.nervos.org/aggron/address/ckt1qyqvumfduray09s0fpgau0txq59cvrphvczsaajt4e
 
-![alt text](https://github.com/drugurares/Gitcoin_Nervos/blob/main/task0/ckb_index.PNG?raw=true)
+
+3. Layer2 deposit screenshot
+
+![alt text](https://github.com/drugurares/Gitcoin_Nervos/blob/main/task1/deposit_layer2.PNG?raw=true)
