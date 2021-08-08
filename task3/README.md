@@ -1,7 +1,7 @@
 Gitcoin: 0) Setup A Local CKB Node And CKB Indexer For The Testnet
 1. Console screenshot
 
-![alt text](https://github.com/drugurares/Gitcoin_Nervos/blob/main/task2/console.PNG?raw=true)
+![alt text](https://github.com/drugurares/Gitcoin_Nervos/blob/main/task3/console.PNG?raw=true)
 
 
 2. Transaction Hash: 0x16c846e2a6ef85abdbedef0ef701aeed4dba1170fcebacd444fec335bf3d51ba
