@@ -1,0 +1,14 @@
+Gitcoin: 6) Use Force Bridge To Deposit Tokens From Ethereum To Polyjuice
+
+1. screenshot of console after generate deposit address:
+
+![alt text](https://github.com/drugurares/Gitcoin_Nervos/blob/main/task6/console_deposit_address.PNG?raw=true)
+
+2. Deposit address:
+ckt1q3dz2p4mdrvp5ywu4kk5edl2uc4p03puvx07g7kgqdau3n3dmypkqnxzuefxyp9wdghglncj77k5wt6p59sx6kukyjlwh5s467qgp8m25yqqqqqsqqqqqvqqqqqfjqqqqzgqkws8serrmxm65kzaqla478x8davf5xeeuvtrpvw5dum48wfyg6gqqqqpqqqqqqcqqqqqxyqqqqx7asf60w8pqpte2sfcfn90fdfzxue7ff2g8sawe9wacnqat6jmygqngqqqqpxv9ejjvgz2u63w3l839aadguh5rgtqd4devf97a0fpt4uqsz0k5uav2vkkss7ajt54zjz2qwrlrz920shvzq9rqgqqqqqqcqgr4upq
+
+3. Eth address: 0x73AC532d6843Dd92E951484a0387f188aa7c2EC1
+
+4. etherscan explorer link: https://rinkeby.etherscan.io/tx/0xe0a0538761c1b9517441c428ab56d87e7d32bd9e711e3cd379bec0bc4af4ee00
+
+5. nervos explorer link: https://explorer.nervos.org/aggron/transaction/0x2eb15a2e2b252db536074686dd7f7b2b78ad95cb99e23b5145190f28e9be68f1
