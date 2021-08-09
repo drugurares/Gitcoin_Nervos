@@ -1,4 +1,5 @@
-Gitcoin: 0) Setup A Local CKB Node And CKB Indexer For The Testnet
+Gitcoin: 2) Deploy A Simple Ethereum Smart Contract On Polyjuice
+
 1. Console screenshot
 
 ![alt text](https://github.com/drugurares/Gitcoin_Nervos/blob/main/task2/console.PNG?raw=true)

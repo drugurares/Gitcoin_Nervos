@@ -1,4 +1,5 @@
-Gitcoin: 0) Setup A Local CKB Node And CKB Indexer For The Testnet
+Gitcoin: 4) Issue An SUDT Token On Layer 1 And Deposit It To Layer 2
+
 1. Link to Layer 1 address funded: https://explorer.nervos.org/aggron/address/ckt1qyqvumfduray09s0fpgau0txq59cvrphvczsaajt4e
 
 2. Console screenshot

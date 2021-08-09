@@ -1,4 +1,5 @@
-Gitcoin: 0) Setup A Local CKB Node And CKB Indexer For The Testnet
+Gitcoin: 1) Create A Godwoken Account On The EVM Layer 2 Testnet
+
 1. Account List screenshot
 
 ![alt text](https://github.com/drugurares/Gitcoin_Nervos/blob/main/task1/account_list.PNG?raw=true)
